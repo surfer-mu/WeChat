@@ -1,0 +1,17 @@
+
+/target/classes
+/target/generated-sources
+
+
+
+.idea/
+*.iml
+
+# test
+/src/test
+
+.DS_Store
+Thumbs.db
+
+README.md
+
