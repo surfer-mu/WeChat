@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<com.po.ImageMessage>
+    <ToUserName>oSh-n0klqBy6TMOoiYN3mgsjl2HQ</ToUserName>
+    <FromUserName>gh_9be1480108a6</FromUserName>
+    <MsgType>image</MsgType>
+    <CreateTime>1500611083568</CreateTime>
+    <Image>
+        <MediaId>8KusCdWlJCLJVQujhiw5VXi-EbvMj1vRdRWRUdCoyq5QqsiDP_uq_vLaDp8waSvv</MediaId>
+    </Image>
+</com.po.ImageMessage>
+        <?xml version="1.0" ?><com.po.ImageMessage>
+<ToUserName>oSh-n0klqBy6TMOoiYN3mgsjl2HQ</ToUserName>
+<FromUserName>gh_9be1480108a6</FromUserName>
+<MsgType>image</MsgType>
+<CreateTime>1500611083568</CreateTime>
+<Image>
+    <MediaId>8KusCdWlJCLJVQujhiw5VXi-EbvMj1vRdRWRUdCoyq5QqsiDP_uq_vLaDp8waSvv</MediaId>
+</Image>
+</com.po.ImageMessage>
+        <?xml version="1.0" ?><com.po.MusicMessage>
+<ToUserName>oSh-n0klqBy6TMOoiYN3mgsjl2HQ</ToUserName>
+<FromUserName>gh_9be1480108a6</FromUserName>
+<MsgType>music</MsgType>
+<CreateTime>1500611087487</CreateTime>
+<Music>
+    <Title>Merry Christmas Mr. Lawrence</Title>
+    <Description>演唱家：双成</Description>
+    <MusicUrl>http://r9it3f.natappfree.cc/music/FYI-MerryChristmasMr.Lawrence.mp3</MusicUrl>
+    <HQMusicUrl>http://r9it3f.natappfree.cc/music/FYI-MerryChristmasMr.Lawrence.mp3</HQMusicUrl>
+    <ThumbMediaId>NJvw3szBGVX4sPyKijlaz-acbaskGcDwFsdp3sYp8Shj0t34BslhrZZH83SFZ0zO</ThumbMediaId>
+</Music>
+</com.po.MusicMessage>
